@@ -1,0 +1,83 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+:root {
+  --primary-font-family: "Nunito Sans", sans-serif;
+}
+
+.ff-nunito {
+  font-family: var(--primary-font-family);
+}
+
+:root {
+  --secondary-font-family: "Roboto", sans-serif;
+}
+
+.ff-graphik {
+  font-family: var(--secondary-font-family);
+}
+
+:root {
+  --bg-color: #19191b;
+}
+
+body {
+  background-color: var(--bg-color) !important;
+}
+
+:root {
+  --primary-color: #5454d4;
+}
+.text-purple {
+  color: var(--primary-color) !important;
+}
+
+.btn-purple {
+  background-color: var(--primary-color) !important;
+}
+
+.bg-contact {
+  background-color: #1e1e2080;
+}
+
+.text-80 {
+  font-size: 60px;
+}
+
+.text-35 {
+  font-size: 35px !important;
+}
+
+.text-50 {
+  font-size: 50px !important;
+}
+
+.text-21 {
+  font-size: 21px !important;
+}
+
+.text-18 {
+  font-size: 14px !important;
+}
+
+.text-14 {
+  font-size: 14px !important;
+}
+
+.text-12 {
+  font-size: 12px !important;
+}
+
+.line-height-80 {
+  line-height: 80px;
+}
+
+.line-height-54 {
+  line-height: 54px;
+}
+
+.line-height-25 {
+  line-height: 25px;
+}
+
